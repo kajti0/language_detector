@@ -42,6 +42,7 @@ language_codes = {
     '__label__el': 'Greek',
     '__label__eml': 'Emilian-Romagnol',
     '__label__en': 'English',
+    '__label__eng': 'English',
     '__label__eo': 'Esperanto',
     '__label__es': 'Spanish',
     '__label__et': 'Estonian',
